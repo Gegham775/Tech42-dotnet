@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tech42_Homework_Lesson37/1.0.0": {
+        "runtime": {
+          "Tech42_Homework_Lesson37.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tech42_Homework_Lesson37/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
